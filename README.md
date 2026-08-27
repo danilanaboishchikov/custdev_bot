@@ -65,10 +65,6 @@ pyTelegramBotAPI, SQLite, pandas, openpyxl, YooMoney
 
 Demo mode disables real external side effects. Payment checks are treated as successful where payment flow exists, and production channel/admin sends are skipped or require a fresh configured target.
 
-## Screenshots
-
-See `SCREENSHOTS.md` for suggested screenshot scenarios.
-
 ## Security / Privacy
 
 Production databases, logs, lock files, generated Excel exports, old Git history and hardcoded credentials were removed. Use only fresh credentials created for a demo bot.
