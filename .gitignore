@@ -1,0 +1,36 @@
+# Environment
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Runtime
+*.log
+*.lock
+runtime/
+temp/
+frames/
+processed_cadrs/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# User/generated data
+*.xlsx
+output.mp4.tmp
+uploads/
+
+# OS
+.DS_Store
+Thumbs.db

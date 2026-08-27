@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+pandas
+openpyxl
+validators
+pytz
+yoomoney
